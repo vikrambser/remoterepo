@@ -38,7 +38,7 @@ public class calc {
 	System.out.println("Addition");
 	int A = Add(x,y);
 	System.out.println(A);
-	System.out.println("Substraction");
+	System.out.println("Substractionnnnn");
 	int S = Sub(x,y);
 	System.out.println(S);
 	System.out.println("Multiplication");
