@@ -7,23 +7,25 @@ import java.util.*;
 
 
 public class calc {
+	//addition
 	
 	public static int Add(int x , int y)
 	{
 	  return x+y;	
 	  
 	}
-
+//mult
 	public static int Mul(int x, int y)
 	{
 	  return x*y;	
 	}
 
+//sub
 	public static int Sub(int x, int y)
 	{
 	  return x-y;	
 	}
-
+//divide
 	public static int Div(int x, int y)
 	{
 	  return x/y;	
