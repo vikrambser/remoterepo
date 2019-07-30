@@ -17,6 +17,7 @@ public class calc {
 //mult
 	public static int Mul(int x, int y)
 	{
+		//in the new branch calc-m
 	  return x*y;	
 	}
 
@@ -28,7 +29,6 @@ public class calc {
 //divide
 	public static int Div(int x, int y)
 	{
-		//in the new branch
 	  return x/y;	
 	}
 	
